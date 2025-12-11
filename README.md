@@ -22,9 +22,7 @@ applications and contributing to open-source projects.
 - Tools: Git, VS Code, Docker
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
 - Email: mohannaa2002@gmail.com
-- Portfolio: [Your website if available]
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
