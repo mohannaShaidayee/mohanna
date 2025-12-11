@@ -1,10 +1,8 @@
 # Hello, I'm [mohanna] 
-## Aspiring Software Developer | Computer Science Student
+## Aspiring Business Professional | Business Administration Student
 
-I'm currently studying Computer Science at [sjcc], 
-focusing on full-stack development and cloud computing. 
-I'm passionate about creating efficient, user-friendly 
-applications and contributing to open-source projects.
+I'm currently studying Business Administration at San Jose City College, 
+focusing on management and organizational strategy.
 
 ### 🔭 Current Projects
 - Building a weather tracking application using React and Node.js
